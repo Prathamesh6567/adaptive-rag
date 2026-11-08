@@ -1,0 +1,8 @@
+College Library Rules
+
+The college library is open from 9 AM to 5 PM
+Monday through Friday.
+
+Students can borrow up to 3 books at a time.
+
+Books must be returned within 14 days.
